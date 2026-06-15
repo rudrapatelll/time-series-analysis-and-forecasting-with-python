@@ -90,5 +90,5 @@ This project is currently maintained by Rudra Patel.
 Rudra is an AI Automation Engineer with over 2 years of professional experience, specializing in Python, SQL, R, C++, and Bash, with expertise in machine learning frameworks such as TensorFlow, PyTorch, and Keras.
 
 Feel free to connect or reach out:
-- LinkedIn: [Rudra Patel](https://www.linkedin.com/in/rudra-patel)
+- LinkedIn: [Rudra Patel](https://www.linkedin.com/in/rudrapatell26/)
 - Email: patel.rudra@ufl.edu
